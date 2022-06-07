@@ -1,0 +1,15 @@
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net6.0\EcommerceApplication.exe
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net6.0\EcommerceApplication.deps.json
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net6.0\EcommerceApplication.runtimeconfig.json
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net6.0\EcommerceApplication.dll
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\bin\Debug\net6.0\EcommerceApplication.pdb
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\EcommerceApplication.csproj.AssemblyReference.cache
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\EcommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\EcommerceApplication.AssemblyInfoInputs.cache
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\EcommerceApplication.AssemblyInfo.cs
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\EcommerceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\EcommerceApplication.dll
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\refint\EcommerceApplication.dll
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\EcommerceApplication.pdb
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\EcommerceApplication.genruntimeconfig.cache
+C:\Users\Ritika Jaiswal\source\repos\EcommerceApplication\EcommerceApplication\obj\Debug\net6.0\ref\EcommerceApplication.dll
